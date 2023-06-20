@@ -41,7 +41,7 @@
 |:----------------------|:------------------------------------------|
 |11.12.2019- 29.05.2020 | **WBS Training AG, Dresden**, Dresden<br/>Certified Further education<br/>**English(B2), JavaScript, JavaEE**, Databases, SAP ® ERP 6.0 (Overview)<br/>Further education |
 |08.2019-08.11.2019 | **alfatraining Bildungszentrum GmbH**(Dresden)<br/>Certified Further education<br/>**Oracle Certified** Associate **(OCA) Java SE** 8 Programmer|
-|10.2017-06.2019| Certified: Inlingua und Volkshochschule, Dresden<br/>Language Course German- DTZ B1, B1-B2 (Profession), B2 (common)|
+|10.2017-06.2019| Certified: Inlingua und Volkshochschule, Dresden<br/>Language Course **German**- **DTZ** B1, B1-B2 (Profession), **B2** (common)|
 |09.2009-07.2010 |**Oles Honchar Dnipro National University**<br/>Master's degree in financial management(evening study), Bachelor's degree recognized in Germany<br/>|
 |09.2009-07.2010 |**Oles Honchar Dnipro National University**<br/>Master's degree in **financial management**(evening study), **Bachelor's** degree recognized in Germany<br/>**Bachelor of Business Economics** (evening study), recognized in Germany|
 |09.2003-07.2008 | **Dnipro National University of Railway Transport** named after academician V. Lazaryan (DIIT)<br/>degree: **Engineer**|
